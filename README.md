@@ -35,3 +35,24 @@
 ## The page where a Marvel character and their information will appear.
 ![image](https://user-images.githubusercontent.com/88689628/145124521-9c3d8885-dfb3-4274-af70-fc94436b2d52.png)
 
+## The page where the Marvel characters comics will appear.
+(File to large to upload. Watch the DEMO to see!!)
+
+## After searching for Wolverine.
+![image](https://user-images.githubusercontent.com/88689628/145124940-3982f264-8ced-450c-98e3-9d4ff41e2128.png)
+
+## Wolverines comics
+(File to large to upload. Watch the DEMO to see!!)
+
+## Lunallery (The image upload gallery)
+![image](https://user-images.githubusercontent.com/88689628/145125262-6a137db0-a8d9-4929-ae09-7fb1c4c8f270.png)
+
+## Placing information in the inputs to render a new image to the page.
+![image](https://user-images.githubusercontent.com/88689628/145125401-c24adac5-4d4c-43c6-bba9-d19ae36bf494.png)
+
+## After clicking Render
+![image](https://user-images.githubusercontent.com/88689628/145125499-daf2f3cd-093a-4b47-b024-7211e41a6888.png)
+
+## Lunafy (The exhibition of NASA and humankinds relationship and journey to the moon.)
+![image](https://user-images.githubusercontent.com/88689628/145125645-2b3c5fb4-fd5d-46c8-8da4-865bc222f007.png)
+## Check out the demo to see what this part of the site does.
