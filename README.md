@@ -4,6 +4,7 @@
 ### The tools I used to build LUNA include but are not limited to MongoDB, Express, React and Node.
 ### Feel free to download the "zoom-edited.mp4" file to see a demo of the site.
 #### Below you can view still shots of the site.
+#### (Currently trying to resolve issues keeping me from pushing these files to github.)
 
 ## Landing Page
 ![image](https://user-images.githubusercontent.com/88689628/145123398-5e38e725-ef85-4008-bb90-1d1024128f22.png)
